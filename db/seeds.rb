@@ -27,4 +27,4 @@ pelicans = Team.create(name: "New Orleans Pelicans", stadium_name: "Smoothie Kin
 lakers = Team.create(name: "Los Angeles Lakers", stadium_name: "Staples Center", stadium_location: "Los Angeles, California")
 knicks = Team.create(name: "New York Knicks", stadium_name: "Madison Square Garden", stadium_location: "New York City, New York") 
 bulls = Team.create(name: "Chicago Bulls", stadium_name: "United Center", stadium_location: "Chicago, Illinois")
-celtics = Team.create(name: "Boston Celtics", stadium_name: "TD Garden", stadium_location: "Boston, Massachusetts") 
+celtics = Team.create(name: "Boston Celtics", stadium_name: "TD Garden", stadium_location: "Boston, Massachusetts")

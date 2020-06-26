@@ -8,5 +8,4 @@ gem "pry"
 gem "require_all"
 gem "faker"
 gem "tty-prompt"
-gem 'yahoo_nba'
-gem "vegas_insider_scraper"
+gem 'colorize', '~> 0.8.1'
